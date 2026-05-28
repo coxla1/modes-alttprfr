@@ -54,6 +54,7 @@ données importées (prendre exemple sur `"OPN"`).
 - [Source](https://docs.astro.build/en/guides/deploy/github/)
 - Modifier le fichier `astro.config.mjs`, mettre la bonne URL au niveau du
 paramètre site
+- Retirer la ligne avec `base` de ce même fichier de config
 - Créer un fichier `CNAME` dans le dossier `public`, y écrire le nom de domaine
   (e.g. `alttprfr.com`)
 
