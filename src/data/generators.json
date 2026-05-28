@@ -1,0 +1,14 @@
+{
+	"VT": {
+		"name": "SahasrahBot",
+		"prefix": "/alttpr preset"
+	},
+	"AA": {
+		"name": "PedChicken",
+		"prefix": "/generate"
+	},
+	"MD": {
+		"name": "BotOfMudora",
+		"prefix": "/mudoraspoiler"
+	}
+}

@@ -3,13 +3,9 @@ import Mode from "../components/Mode.astro";
 
 const {agreementId, modesData, categorySlug} = Astro.props;
 
-const agreements = {
-  0: "Toujours disponible",
-  1: "Accord nécessaire en phase de groupes uniquement",
-  2: "Accord nécessaire durant les deux phases",
-};
+import agreementsData from "../data/agreements.json";
 ---
-<h3 class="card-title mt-2">{agreements[agreementId]}</h3>
+<h3 class="card-title mt-2">{agreementsData[agreementId]}</h3>
 <div class="accordion" id={"accordion-" + categorySlug + "-" + agreementId}>
   {modesData.map((mode) => {
     return <Mode

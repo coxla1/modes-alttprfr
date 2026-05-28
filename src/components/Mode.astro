@@ -1,17 +1,7 @@
 ---
+import generatorsData from "../data/generators.json";
+
 const {frenchName, englishName, preset, description, categorySlug, generatorSlug, agreement} = Astro.props;
-
-const generatorsName = {
-  "VT": "SahasrahBot",
-  "AA": "PedChicken",
-  "MD": "BotOfMudora",
-};
-
-const generatorsPrefix = {
-  "VT": "/alttpr preset",
-  "AA": "/generate",
-  "MD": "/mudoraspoiler",
-};
 ---
 <div class="accordion-item">
   <h2 class="accordion-header">
@@ -33,8 +23,8 @@ const generatorsPrefix = {
   >
   <div
     class="accordion-body card-text"
-    set:html={description +  "<br />" + "Commande " + generatorsName[generatorSlug] + " : " +
-      "<kbd>" + generatorsPrefix[generatorSlug] + " preset:" + preset + "</kbd>"}
+    set:html={description +  "<br />" + "Commande " + generatorsData[generatorSlug].name + " : " +
+      "<kbd>" + generatorsData[generatorSlug].prefix + " preset:" + preset + "</kbd>"}
   >
     </div>
   </div>
