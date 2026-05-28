@@ -1,0 +1,17 @@
+---
+const {categoryName, categorySlug, defaultActive = false} = Astro.props;
+---
+<li class="nav-item" role="presentation">
+  <button
+    class:list={["nav-link", { active: defaultActive }]}
+    id={categorySlug + "-tab"}
+    data-bs-toggle="tab"
+    data-bs-target={"#" + categorySlug+ "-tab-pane"}
+    type="button"
+    role="tab"
+    aria-controls={categorySlug + "-tab-pane"}
+    aria-selected={defaultActive ? true : false}
+  >
+    {categoryName}
+  </button>
+</li>

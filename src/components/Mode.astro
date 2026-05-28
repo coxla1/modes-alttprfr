@@ -1,0 +1,42 @@
+---
+const {frenchName, englishName, description, categorySlug, generatorSlug, preset, agreement} = Astro.props;
+
+const generatorsName = {
+  "VT": "SahasrahBot",
+  "AA": "PedChicken",
+  "MD": "BotOfMudora",
+};
+
+const generatorsPrefix = {
+  "VT": "/alttpr preset",
+  "AA": "/generate",
+  "MD": "/mudoraspoiler",
+};
+---
+<!-- TODO: correspondance categorySlug et categoryName -->
+<div class="accordion-item">
+  <h2 class="accordion-header">
+    <button
+      class="accordion-button collapsed"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target={"#collapse-" + categorySlug + "-" + generatorSlug + "-" + preset}
+      aria-expanded="false"
+      aria-controls={"collapse-" + categorySlug + "-" + generatorSlug + "-" + preset}
+    >
+      {frenchName} ({englishName})
+    </button>
+  </h2>
+  <div
+    id={"collapse-" + categorySlug + "-" + generatorSlug + "-" + preset}
+    class="accordion-collapse collapse"
+    data-bs-parent={"#accordion-" + categorySlug + "-" + agreement}
+  >
+  <div
+    class="accordion-body card-text"
+    set:html={description +  "<br />" + "Commande " + generatorsName[generatorSlug] + " : " +
+      "<kbd>" + generatorsPrefix[generatorSlug] + " preset:" + preset + "</kbd>"}
+  >
+    </div>
+  </div>
+</div>
