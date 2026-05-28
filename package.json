@@ -1,5 +1,5 @@
 {
-	"name": "modes-alttpr",
+	"name": "modes-alttprfr",
 	"type": "module",
 	"version": "0.0.1",
 	"engines": {
@@ -15,4 +15,3 @@
 		"astro": "^6.4.0"
 	}
 }
-

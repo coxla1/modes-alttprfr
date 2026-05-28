@@ -28,6 +28,9 @@ toutes les phases", "Dispo seulement si les deux joueureuses sont d'accord", ...
 
 ### Générateurs
 
+- Fichier : `generators.json`
+- Structure : une liste de générateurs avec un indicateur et un nom
+
 ### Catégories
 
 - Fichier : `categories.json`
