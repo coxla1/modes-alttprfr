@@ -1,42 +1,25 @@
 ---
 import Mode from "../components/Mode.astro";
 
-const { agreementId, categorySlug } = Astro.props;
+const {agreementId, modesData, categorySlug} = Astro.props;
 
 const agreements = {
   0: "Toujours disponible",
-  1: "Accord nécessaire en phase de groupes uniquementdisponible",
+  1: "Accord nécessaire en phase de groupes uniquement",
   2: "Accord nécessaire durant les deux phases",
 };
 ---
-<!-- TODO: if data then disp else rien-->
 <h3 class="card-title mt-2">{agreements[agreementId]}</h3>
 <div class="accordion" id={"accordion-" + categorySlug + "-" + agreementId}>
-<Mode
-    frenchName="Glitchs du monde extérieur"
-    englishName="Overworld glitches"
-    description="Une seed ouverte où l'on commence avec les bottes et où les glitchs du monde extérieur (OWG) sont pris en compte dans la logique. Les glitchs autorisés sont ceux de la colonne OWG dans <a href='http://alttp.mymm1.com/wiki/Rulesets/ALTTPR/Racing' class='link-primary'>ce document</a>."
-    categorySlug="OPN"
-    generatorSlug="VT"
-    preset="owg"
-    agreement={2}
-/>
-<Mode
-    frenchName="Clésordre et achevable uniquement"
-    englishName="Beatable only keysanity"
-    description="Une seed ouverte avec clésordre et la logique réglée sur achevable uniquement, il faudra y rester attentif."
-    categorySlug="KEY"
-    generatorSlug="AA"
-    preset="canardbot/beatable_keys"
-    agreement={0}
-/>
-<Mode
-    frenchName="truc"
-    englishName="chose"
-    description="bonjour"
-    categorySlug="INV"
-    generatorSlug="MD"
-    preset="truchose"
-    agreement={1}
-/>
+  {modesData.map((mode) => {
+    return <Mode
+      frenchName={mode.french_name}
+      englishName={mode.english_name}
+      preset={mode.preset}
+      description={mode.description}
+      categorySlug={categorySlug}
+      generatorSlug={mode.generator}
+      agreement={agreementId}
+    />
+  })}
 </div>

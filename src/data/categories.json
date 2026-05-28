@@ -1,0 +1,22 @@
+[
+	{
+		"slug": "OPN",
+		"name": "Ouverte"
+	},
+	{
+		"slug": "STD",
+		"name": "Standard"
+	},
+	{
+		"slug": "KEY",
+		"name": "Clés"
+	},
+	{
+		"slug": "ENE",
+		"name": "Ennemiseur"
+	},
+	{
+		"slug": "INV",
+		"name": "Inversé"
+	}
+]

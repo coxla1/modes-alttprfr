@@ -1,0 +1,92 @@
+{
+	"0": [
+		{
+			"french_name": "Ouverte",
+			"english_name": "Open",
+			"preset": "open",
+			"description": "Un classique où l'on pourra choisir de commencer à la maison ou au sanctuaire.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ouverte avec rapide Ganon",
+			"english_name": "Open fast Ganon",
+			"preset": "open_fast",
+			"description": "Comme une seed ouverte, mais le trou de la pyramide sera déjà formé, pas besoin de monter la tour de Ganon.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ouverte avec bottes au départ",
+			"english_name": "Open boots",
+			"preset": "openboots",
+			"description": "Une seed ouverte avec les bottes dès le départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ouverte avec flûte activée au départ",
+			"english_name": "Open flute",
+			"preset": "openflute",
+			"description": "Une seed ouverte avec la flûte activée dès le départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ouverte avec lampe au départ",
+			"english_name": "Open lamp",
+			"preset": "canardbot/open_lamp",
+			"description": "Une seed ouverte avec la lampe dès le départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ouverte avec tour de Ganon à cristaux réduits (4/7)",
+			"english_name": "Open reduced crystals (4/7)",
+			"preset": "canardbot/open_47",
+			"description": "Une seed ouverte mais la tour de Ganon sera accessible dès que l'on a 4 cristaux. Il faut tout de même les 7 cristaux et monter la tour pour vaincre Ganon.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Cartes et boussoles avec rapide Ganon",
+			"english_name": "Map compass shuffle fast Ganon",
+			"preset": "canardbot/mcfast",
+			"description": "Une seed ouverte où les cartes et les boussoles sont mélangées, et le trou de la pyramide est déjà formé.",
+			"generator": "VT"
+		}
+	],
+	"1": [
+		{
+			"french_name": "Shopsanité",
+			"english_name": "Shopsanity",
+			"preset": "coxla/shopsanity",
+			"description": "Une seed ouverte où le contenu des magasins est également mélangé et les vendeurs pourront avoir des objets importants.",
+			"generator": "AA"
+		},
+		{
+			"french_name": "Ouverte ténébreuse",
+			"english_name": "Dark open",
+			"preset": "coxla/darkopen",
+			"description": "Une seed ouverte où l'on a accès au monde des ténèbres dès le départ : on commence avec les gants de niveau 1, le marteau et la perle de lune.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Sans épée",
+			"english_name": "Swordless, avec 3 arcs, un dans le coffre de Moldorm 2",
+			"preset": "teto/swordless_nsh",
+			"description": "Une seed ouverte où l'on ne trouvera aucune épée. Il y a trois arcs dans le pool d'objets, dont un dans le coffre de Moldorm 2.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Tous les donjons avec bottes au départ",
+			"english_name": "All dungeons boots",
+			"preset": "adboots",
+			"description": "Une seed ouverte où il faudra compléter tous les donjons, mais on commence avec les bottes.",
+			"generator": "VT"
+		}
+	],
+	"2": [
+		{
+			"french_name": "Glitchs du monde extérieur",
+			"english_name": "Overworld glitches",
+			"preset": "owg",
+			"description": "Une seed ouverte où l'on commence avec les bottes et où les glitchs du monde extérieur (OWG) sont pris en compte dans la logique. Les glitchs autorisés sont ceux de la colonne OWG dans <a href=\"http://alttp.mymm1.com/wiki/Rulesets/ALTTPR/Racing\" class=\"link-primary\">ce document</a>.",
+			"generator": "VT"
+		}
+	]
+}

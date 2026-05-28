@@ -1,5 +1,5 @@
 ---
-const {frenchName, englishName, description, categorySlug, generatorSlug, preset, agreement} = Astro.props;
+const {frenchName, englishName, preset, description, categorySlug, generatorSlug, agreement} = Astro.props;
 
 const generatorsName = {
   "VT": "SahasrahBot",
@@ -13,7 +13,6 @@ const generatorsPrefix = {
   "MD": "/mudoraspoiler",
 };
 ---
-<!-- TODO: correspondance categorySlug et categoryName -->
 <div class="accordion-item">
   <h2 class="accordion-header">
     <button

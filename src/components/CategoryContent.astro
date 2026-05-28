@@ -1,7 +1,7 @@
 ---
 import Agreement from "../components/Agreement.astro";
 
-const {categorySlug, defaultActive = false} = Astro.props;
+const {categorySlug, modesData, defaultActive} = Astro.props;
 ---
 <div
   class:list={["tab-pane fade", {"show active": defaultActive}]}
@@ -10,7 +10,7 @@ const {categorySlug, defaultActive = false} = Astro.props;
   aria-labelledby={categorySlug + "-tab"}
   tabindex="0"
 >
-  <Agreement agreementId={0} categorySlug={categorySlug} />
-  <Agreement agreementId={1} categorySlug={categorySlug} />
-  <Agreement agreementId={2} categorySlug={categorySlug} />
+  {[0, 1, 2].map((id) => {
+    if (modesData[id].length) return <Agreement agreementId={id} modesData={modesData[id]} categorySlug={categorySlug} />
+  })}
 </div>

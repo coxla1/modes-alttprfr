@@ -1,0 +1,42 @@
+{
+	"0": [
+		{
+			"french_name": "Standard",
+			"english_name": "Standard",
+			"preset": "standard",
+			"description": "Un mode où l'on devra commencer par sauver la princesse avec une arme au hasard.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Décontractée avec bottes",
+			"english_name": "Casual boots",
+			"preset": "casualboots",
+			"description": "Mode extrêmement populaire où l'on commencera par sauver la princesse, mais on démarrera aussi avec les bottes et une épée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Ambroisie",
+			"english_name": "Ambrosia",
+			"preset": "ambrosia",
+			"description": "Plusieurs particularités pour ce mode : on commence par sauver la princesse, l'oncle donne l'indice de l'emplacement des bottes, on a une épée au départ et les boss ont forcément un objet sur eux (pas de carte, boussole, clé).",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Standard avec épée assurée et consommables",
+			"english_name": "Standard assured sword with consumables",
+			"preset": "canardbot/standard_cons",
+			"description": "On commence par sauver la princesse, mais on sera équipé d'une épée, 10 bombes, 30 flèches et 1000 rubis.",
+			"generator": "VT"
+		}
+	],
+	"1": [
+		{
+			"french_name": "Cabooclé",
+			"english_name": "Cabookey",
+			"preset": "mcmonkey/cabookey",
+			"description": "Seed standard où il faudra compléter tous les donjons, on démarre avec les bottes et une épée, et tous les objets de donjons sont mélangés.",
+			"generator": "VT"
+		}
+	],
+	"2": []
+}

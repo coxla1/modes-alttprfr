@@ -1,24 +1,39 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from "../layouts/Layout.astro";
 
-import CategoryHeader from '../components/CategoryHeader.astro';
-import CategoryContent from '../components/CategoryContent.astro';
+import CategoryHeader from "../components/CategoryHeader.astro";
+import CategoryContent from "../components/CategoryContent.astro";
+
+import categoriesData from "../data/categories.json";
+import openData from "../data/opn.json";
+import standardData from "../data/std.json";
+
+const modesData = {
+  "OPN": openData,
+  "STD": standardData,
+  "KEY": [[], [], []],
+  "ENE": [[], [], []],
+  "INV": [[], [], []],
+};
 ---
 <!-- TODO: for loop pour les cate -->
-<!-- TODO: correspondance categorySlug et categoryName -->
 <Layout>
-  <h1>Modes</h1>
+  <h1>Modes tournoi 9</h1>
   <div class="card">
     <div class="card-header" id="category-tabs" role="tablist">
       <ul class="nav nav-tabs card-header-tabs">
-        <CategoryHeader categoryName="Ouverte" categorySlug="OPN" defaultActive={true} />
-        <CategoryHeader categoryName="Standard" categorySlug="STD" />
+        {categoriesData.map((category) => {
+          const defaultActive = category.slug === "OPN"
+          return <CategoryHeader categoryName={category.name} categorySlug={category.slug} defaultActive={defaultActive} />
+        })}
       </ul>
     </div>
 
     <div class="card-body tab-content" id="category-content">
-      <CategoryContent categorySlug="OPN" defaultActive={true} />
-      <CategoryContent categorySlug="STD" />
+      {categoriesData.map((category) => {
+        const defaultActive = category.slug === "OPN"
+        return <CategoryContent categorySlug={category.slug} modesData={modesData[category.slug]} defaultActive={defaultActive} />
+      })}
     </div>
   </div>
 </Layout>
