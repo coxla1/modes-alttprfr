@@ -7,8 +7,12 @@
 		"name": "PedChicken",
 		"prefix": "/generate"
 	},
-	"MD": {
+	"MR": {
 		"name": "BotOfMudora",
+		"prefix": "/mudoraroll"
+	},
+	"MD": {
+		"name": "BotOfMudoraSpoiler",
 		"prefix": "/mudoraspoiler"
 	}
 }
