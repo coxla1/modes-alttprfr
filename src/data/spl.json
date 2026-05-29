@@ -1,0 +1,32 @@
+{
+	"3": [
+		{
+			"french_name": "Ouverte 7/7 avec spoiler",
+			"english_name": "Open Spoiler 7/7",
+			"preset": "nogtboots/open 900",
+			"description": "Seed ouverte avec aucun équipement au départ. Les bottes ne peuvent pas être dans GT ou sur le PED. Au début de la course, la spoiler log est fourni et 15 minutes d'étude débute. Après ces 15 minutes, il est permis de commencer à jouer sa seed.",
+			"generator": "MD"
+		},
+		{
+			"french_name": "Ouverte clésordre 7/7 avec spoiler",
+			"english_name": "Spoiler Keysanity 7/7",
+			"preset": "nogtboots/keysanity 900",
+			"description": "Spoiler avec clésordre 7/7. Les bottes ne peuvent pas être dans GT ou sur le PED.",
+			"generator": "MD"
+		},
+		{
+			"french_name": "Ouverte clésordre 4/7 avec spoiler",
+			"english_name": "Spoiler 4/7 Keysanity",
+			"preset": "treyspyre/pispo26 900",
+			"description": "Spoiler avec clésordre 4/7. Les bottes ne peuvent pas être dans GT ou sur le PED.",
+			"generator": "MD"
+		},
+		{
+			"french_name": "Ouverte clésordre 4LS/7 avec spoiler et compagnons mélangés",
+			"english_name": "Spoiler 4/7 Keysanity with follower shuffle",
+			"preset": "jem041/47kf 900",
+			"description": "Spoiler avec clésordre 4/7 et les compagnons sont mélangés entre eux. Les compagnons sont le forgeron, Kiki, la maiden, le vieux monsieur de la montagne, etc. De plus, le serrurier (un des compagnons) est requis en plus de 4 cristaux pour ouvrir la tour de Ganon. Les bottes ne peuvent pas être dans GT ou sur le PED.",
+			"generator": "MD"
+		}
+	]
+}
