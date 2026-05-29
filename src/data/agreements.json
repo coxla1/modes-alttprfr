@@ -1,6 +1,6 @@
-{
-	"0": "Toujours disponible (impossible à veto)",
-	"1": "Peut être veto en tout temps",
-	"2": "Accord nécessaire des deux joueurs (phase de groupe), puis peut être veto pendant l'arbre d'élimination",
-	"3": "Accord nécessaire des deux joueurs en tout temps (pas besoin de veto)"
-}
+[
+	"Toujours disponible (impossible à veto)",
+	"Peut être veto en tout temps",
+	"Accord nécessaire des deux joueurs (phase de groupe), puis peut être veto pendant l'arbre d'élimination",
+	"Accord nécessaire des deux joueurs en tout temps (pas besoin de veto)"
+]

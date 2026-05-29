@@ -22,9 +22,6 @@ Les données sont réparties dans différents fichiers, tous dans le dossier `sr
 - Fichier : `agreements.json`
 - Structure : une liste avec différents niveaux d'accord (e.g. "Dispo pour
 toutes les phases", "Dispo seulement si les deux joueureuses sont d'accord", ...)
-- Pour en ajouter / enlever, il faudra aussi modifier le fichier
-`src/components/CategoryContent.astro`, en haut du fichier la ligne avec
-`numberOfAgreements`.
 
 ### Générateurs
 
