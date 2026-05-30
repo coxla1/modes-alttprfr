@@ -11,6 +11,10 @@
 		"name": "BotOfMudora",
 		"prefix": "/mudoraroll"
 	},
+	"MC": {
+		"name": "BotOfMudoraCrosskeys",
+		"prefix": "/mudorarollcrosskeys"
+	},	
 	"MD": {
 		"name": "BotOfMudoraSpoiler",
 		"prefix": "/mudoraspoiler"
