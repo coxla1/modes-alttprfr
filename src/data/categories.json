@@ -16,6 +16,10 @@
 		"name": "Ennemiseur"
 	},
 	{
+		"slug": "SPL",
+		"name": "Spoiler"
+	},
+	{
 		"slug": "INV",
 		"name": "Inversé"
 	}
