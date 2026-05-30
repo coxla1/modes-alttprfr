@@ -1,26 +1,30 @@
 [
 	{
 		"slug": "OPN",
-		"name": "Ouverte"
+		"name": "Ouverte et Standard"
 	},
 	{
-		"slug": "STD",
-		"name": "Standard"
-	},
-	{
-		"slug": "KEY",
+		"slug": "Key",
 		"name": "Clés"
 	},
 	{
 		"slug": "ENE",
-		"name": "Ennemiseur"
+		"name": "Enemiseur"
 	},
+	{
+		"slug": "INV",
+		"name": "Inversé"
+	},
+	{
+		"slug": "ENT",
+		"name": "Entrée"
+	}
 	{
 		"slug": "SPL",
 		"name": "Spoiler"
 	},
 	{
-		"slug": "INV",
-		"name": "Inversé"
+		"slug": "SPC",
+		"name": "Spéciale"
 	}
 ]
