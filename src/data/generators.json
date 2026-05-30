@@ -3,9 +3,9 @@
 		"name": "SahasrahBot",
 		"prefix": "/alttpr preset"
 	},
-	"AA": {
-		"name": "PedChicken",
-		"prefix": "/generate"
+	"MY": {
+		"name": "BotOfMudoraMystery",
+		"prefix": "/mudoramystery"
 	},
 	"MR": {
 		"name": "BotOfMudora",
