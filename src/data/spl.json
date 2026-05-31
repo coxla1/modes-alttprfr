@@ -19,14 +19,14 @@
 		},
 		{
 			"french_name": "Ouverte clésordre 4/7 avec spoiler",
-			"english_name": "Spoiler 4/7 Keysanity",
+			"english_name": "Spoiler Keysanity 4/7",
 			"preset": "treyspyre/pispo26",
-			"description": "Spoiler avec clésordre 4/7.",
+			"description": "Spoiler avec clésordre 4/7",
 			"generator": "MD"
 		},
 		{
-			"french_name": "Ouverte clésordre 4/7 avec spoiler et compagnons mélangés",
-			"english_name": "Spoiler 4/7 Keysanity with follower shuffle",
+			"french_name": "Ouverte clésordre 4LS/7 avec spoiler et compagnons mélangés",
+			"english_name": "Spoiler Keysanity 4/7 with follower shuffle",
 			"preset": "jem041/47kf",
 			"description": "Spoiler avec clésordre 4/7 et les compagnons sont mélangés entre eux. Les compagnons sont le forgeron, Kiki, la maiden, le vieux monsieur de la montagne, etc. De plus, le serrurier (un des compagnons) est requis en plus de 4 cristaux pour ouvrir la tour de Ganon.",
 			"generator": "MD"
