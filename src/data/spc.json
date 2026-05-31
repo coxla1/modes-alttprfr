@@ -56,7 +56,7 @@
 			"french_name": "Inversé tous les donjons avec clésordre",
 			"english_name": "Inverted Adkeys",
 			"preset": "inverted_adkeys",
-			"description": "Seed inversée avec clésordre activée. Tous les donjons 9incluant Aga 1) doivent être accomplies. La version 1.0 inverted est utilisée.",
+			"description": "Seed inversée avec clésordre activée. Tous les donjons (incluant Aga 1) doivent être accomplies. La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		},
 		{
@@ -84,7 +84,7 @@
 			"french_name": "Clésordre 7/7 inversé avec départ standard",
 			"english_name": "Stinkeys",
 			"preset": "league/stdinvkeys",
-			"description": "Début standard avec clésordre. Les écrans du monde extérieure du light world deviennent leur version dark, à l'exception de la maison de Link et du château d'Hyrule. Puis, une fois qu'on entre dans le "dark world" les écrans du monde extérieur deviennent la version light. La version 2.0 inverted est utilisée.",
+			"description": "Début standard avec clésordre. Les écrans du monde extérieure du light world deviennent leur version dark, à l'exception de la maison de Link et du château d'Hyrule. Puis, une fois qu'on entre dans le dark world les écrans du monde extérieur deviennent la version light. La version 2.0 inverted est utilisée.",
 			"generator": "MR"
 		},
 		{
