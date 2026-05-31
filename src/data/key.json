@@ -1,0 +1,60 @@
+{
+	"3": [
+		{
+			"french_name": "Clésordre",
+			"english_name": "Keysanity",
+			"preset": "keysanity",
+			"description": "Seed de base, mais les maps, boussoles, et toutes les clés sont mélangées avec les items.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Clésordre avec bottes",
+			"english_name": "Keysanity boots",
+			"preset": "reynox/keysboots",
+			"description": "Clésordre avec bottes au départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Clésordre avec rapide Ganon",
+			"english_name": "Keysanity fast Ganon",
+			"preset": "reynox/keysfast",
+			"description": "Clésordre, mais le trou dans la pyramide est déjà ouvert.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Cartes, boussoles, petites clés mélangées avec flûte.",
+			"english_name": "Map, compass, small keys shuffle with flute",
+			"preset": "reynox/mcsflute",
+			"description": "Les maps, boussoles les petites clés sont mélangées avec les items. Les grosses clés restent dans leur donjon respectif. On commence avec une flute activée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Cabooclé",
+			"english_name": "Cabookey",
+			"preset": "kaesden/cabookey",
+			"description": "Début standard avec épée et bottes. Clésordre où tous les donjons sont requis (incluant Aga 1). Attention, il faudra peut-être entrer dans la tour d'Aga pendant qu'on sauve Zelda!",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Shopsanité avec clésordre",
+			"english_name": "Shop keysanity",
+			"preset": "reynox/shopsanity_keysanity",
+			"description": "Clésordre et le contenu des magasins sont mélangés avec les items.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Presque tous les donjons avec clésordre",
+			"english_name": "Almost All Dungeons (AAD keysanity)",
+			"preset": "tsigma6/aad_keysanity",
+			"description": "Une clésordre 7/7, mais la grosse clé de GT est sur le piédestal.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Faux tous donjons clésordre (FADKeys)",
+			"english_name": "Faux All Dungeons (FAD Keys)",
+			"preset": "fadkeys",
+			"description": "Clésordre avec tous les donjons requis (incluant Aga 1). Mais, les petites clés de castle tower (où Aga 1 réside) restent vanilles.",
+			"generator": "VT"
+		}
+	]
+}
