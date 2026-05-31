@@ -93,13 +93,6 @@
 			"preset": "league/mmmm",
 			"description": "Seed où il faut déterminer les paramètres et l'objectif au courant de la course! Utilise les paramètres du MMMM avec la modification que le door shuffle reste vanille.",
 			"generator": "MY"
-		},
-		{
-			"french_name": "Au choix!",
-			"english_name": "Your choice!",
-			"preset": "",
-			"description": "Vous voulez jouer un autre mode non présent dans le tournoi? Soumettez votre propre choix aux administrateurs! Votre adversaire doit l'approuver aussi.",
-			"generator": ""
 		}
 	]
 }
