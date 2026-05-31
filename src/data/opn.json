@@ -56,7 +56,7 @@
 			"english_name": "Shopsanity",
 			"preset": "coxla/shopsanity",
 			"description": "Une seed ouverte où le contenu des magasins est également mélangé et les vendeurs pourront avoir des objets importants.",
-			"generator": "AA"
+			"generator": "MR"
 		},
 		{
 			"french_name": "Ouverte ténébreuse",
