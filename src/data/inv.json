@@ -1,0 +1,42 @@
+{
+	"0": [],
+	"1": [],
+	"2": [
+		{
+			"french_name": "Inversé 7/7",
+			"english_name": "Inverted 7/7",
+			"preset": "inverted",
+			"description": "Seed inversé (on commence dans le dark world). La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Inversé avec flute activées au départ",
+			"english_name": "Influte",
+			"preset": "reynox/influte",
+			"description": "Seed inversé (on commence dans le dark world). On commence avec la flute active au départ. À noter que le clésordre reste désactivé. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Tous les donjons, inversé avec les épées vanilles",
+			"english_name": "AD Inverted Vanilla Sword",
+			"preset": "reynox/AD_inverted_vanilla",
+			"description": "Seed inversé où il faut accomplir tous les donjons (incluant Aga 1). Les épées sont vanilles (oncle, piédestal, forgeron et pyramide fairy). La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Invrosie",
+			"english_name": "Invrosia",
+			"preset": "invrosia",
+			"description": "Seed inversé avec une épée au départ. Les grosses clés sont mélangées avec les items excepté celle de GT. Les boss donnent assurément un item. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Invrosie avec bottes au départ",
+			"english_name": "Invrosia Boots",
+			"preset": "Invrosia_boots",
+			"description": "Seed inversé avec une épée et les bottes au départ. Les grosses clés sont mélangées avec les items excepté celle de GT. Les boss donnent assurément un item. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		}
+	],
+	"3": []
+}
