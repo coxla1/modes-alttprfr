@@ -1,0 +1,42 @@
+{
+	"0": [],
+	"1": [
+		{
+			"french_name": "Bossmiseur avec cartes et boussoles",
+			"english_name": "Map, compass bossmizer (McBoss)",
+			"preset": "tournament_mcboss",
+			"description": "Les boss sont mélangés entre eux. Il y a toujours au moins 1 de chacun des boss présent dans la seed en plus de 3 duplicats. Les maps et boussoles sont mélanges avec les items. Ne pas oublier que les boussoles révèlent l'identité du boss.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Bossmiseur chaotique avec demi-magie au départ",
+			"english_name": "Chaos Bossmizer Half Magic",
+			"preset": "reynox/chaos_bossmizer_magic",
+			"description": "Les boss sont mélangés entre eux. Le mélange chaotique fait en sorte qu'il n'y a pas de minimum ou maximum au nombre de fois qu'un boss peut apparaître. On commence avec la demi-magie.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Tous les donjons, ennemiseur avec logique de base et épées vanilles",
+			"english_name": "AD Enemizer (basic logic) with vanilla sword",
+			"preset": "reynox/ad_basic_enemizer_vanilla",
+			"description": "Tous les donjons (incluant Aga 1) doivent être complétés. Les épées sont vanilles (oncle, piédestal, forgeron et pyramide fairy). Les ennemis sont mélangés, mais il ne sera jamais requis d'avoir une arme spéciale pour les vaincre (donc pas de eyegore rouge, mimic rouge, tortue, ni deadrock). Le bossmiseur est désactivé.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Ennemiseur avec logique avancée et bossmiseur",
+			"english_name": "Logical Enemizer Bossmizer",
+			"preset": "reynox/open_enemizer",
+			"description": "Seed ouverte avec aucun équipement au départ. Les ennemis sont mélangés et il peut être requis d'avoir une arme spéciale pour les vaincre (l'arc pour les eyegore ou mimic rouge, le marteau pour les tortues, bombos ou fire rod pour les méduses rouges et aussi la poudre ou quake pour les deadrock). Le bossmiseur est activé (au moins 1 de chaque boss avec 3 duplicats).",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Décontractée avec bottes, ennemiseur avec logique avancée et bossmiseur",
+			"english_name": "Casual Boots Logical Enemizer",
+			"preset": "knucks/ecb",
+			"description": "Début standard où on commence avec les bottes et l'épée. Les ennemis sont mélangés et il peut être requis d'avoir une arme spéciale pour les vaincre (l'arc pour les eyegore ou mimic rouge, le marteau pour les tortues, bombos ou fire rod pour les méduses rouges et aussi la poudre ou quake pour les deadrock). Le bossmiseur est activé (au moins 1 de chaque boss avec 3 duplicats).",
+			"generator": "MR"
+		}
+	],
+	"2": [],
+	"3": []
+}
