@@ -1,0 +1,56 @@
+{
+	"0": [],
+	"1": [],
+	"2": [
+		{
+			"french_name": "Croise-clés",
+			"english_name": "Crosskeys",
+			"preset": "crosskeys",
+			"description": "Clésordre où les entrées sont aussi mélangées.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Croise-clés avec pseudo bottes",
+			"english_name": "Crosskeys with pseudoboots",
+			"preset": "pseudoboots",
+			"description": "Croise-clé avec pseudo bottes au départ. Les pseudo bottes permettent de courir, mais ne peuvent pas détruire des rochers ni traverser des gouffres en rebondissant sur un mur.",
+			"generator": "MC"
+		},
+		{
+			"french_name": "Croise-clés avec miroir au départ",
+			"english_name": "Crosskeys with mirror",
+			"preset": "reynox/crosskeys_mirror",
+			"description": "Croise-clé avec miroir au départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Croise-clés ténébreuse (perle et lampe au départ)",
+			"english_name": "Dark Crosskeys (starting lamp and moon pearl)",
+			"preset": "reynox/dark_crosskeys",
+			"description": "Croise-clé avec perle et lampe au départ.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Croise Ganon (10/12 morceaux de triforce)",
+			"english_name": "Crosshunt (10/12 triforce hunt)",
+			"preset": "reynox_crosshunt",
+			"description": "Croise-clé où il faut collecter 10 morceaux de triforce sur les 12 disponibles dans la seed. 10 morceaux remplacent les pendentifs et les cristaux trouvés sur les boss. Puis, il y a un morceau de triforce derrière Ice Armos et un derrière Moldorm 2. Les pendentifs et cristaux sont mélangés avec les items. L'entrée de GT ne demande aucun cristal.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Retrance avec pseudo bottes et indices",
+			"english_name": "Retrance pseudo-boots",
+			"preset": "coxla/pseudo_retrance2023",
+			"description": "On commence avec une épée et les pseudo bottes. En plus du croise-clé, les indices sont activés (les dalles grises présentes dans les donjons ainsi que certains PNJ donnent des informations quant à la seed). Les petites clés sont universelles et il est possible d'en acheter dans des magasins. Il faut acheter un carquois de flèche afin de tirer des flèches. Chaque tir de flèche coûte des rupee. Il y a 4 entrées qui deviennent des cavernes qui offrent soit un réceptacle de coeur, soit une bouteille. Il y a 1 entrée qui mène à une caverne avec une épée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Retrance avec flute activée et indices",
+			"english_name": "Retrance with activated flute",
+			"preset": "reynox/pseudo_flute_retrance",
+			"description": "On commence avec une épée et la flute activée au départ. En plus du croise-clé, les indices sont activés (les dalles grises présentes dans les donjons ainsi que certains PNJ donnent des informations quant à la seed). Les petites clés sont universelles et il est possible d'en acheter dans des magasins. Il faut acheter un carquois de flèche afin de tirer des flèches. Chaque tir de flèche coûte des rupee. Il y a 4 entrées qui deviennent des cavernes qui offrent soit un réceptacle de coeur, soit une bouteille. Il y a 1 entrée qui mène à une caverne avec une épée.",
+			"generator": "VT"
+		}
+	],
+	"3": []
+}
