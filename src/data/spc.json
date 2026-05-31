@@ -97,9 +97,9 @@
 		{
 			"french_name": "Au choix!",
 			"english_name": "Your choice!",
-			"preset": "MD",
+			"preset": "votre_fabuleux_preset_dans_un_cinéma_près_de_chez_vous",
 			"description": "Vous voulez jouer un autre mode non présent dans le tournoi? Soumettez votre propre choix aux administrateurs! Votre adversaire doit l'approuver aussi.",
-			"generator": "votre_fabuleux_preset_dans_un_cinéma_près_de_chez_vous"
+			"generator": "MD"
 		}
 	]
 }
