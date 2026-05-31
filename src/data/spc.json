@@ -1,0 +1,105 @@
+{
+	"0": [],
+	"1": [],
+	"2": [],
+	"3": [
+		{
+			"french_name": "Sans épée (3 arcs)",
+			"english_name": "Swordless with 3rd bow",
+			"preset": "teto/swordless_nsh",
+			"description": "Seed sans aucune épée présente. Des ajustements sont faits, par exemple, il n'y a pas de rideau en haut de castle tower ou derrière Skull wood. Le marteau permet d'activer les tablettes, détruire la barrière de castle tower ou pour endommager Ganon.  Les médaillons sont utilisables avec un marteau et en se tenant sur une pastille désignée. Un 3e arc progressif est mis dans le coffre après Moldorm 2.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Portes mélangées débutants",
+			"english_name": "Beginner doors",
+			"preset": "alttprleague/beginner_doors",
+			"description": "Départ standard. Les salles des donjons sont séparées en 3 groupes et mélangées au sein de leur groupe. Les trois groupes sont HC, EP, DP, TOH --- POD, SP, SW, TT --- IP, MM, TR, GT. ",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Glitchs du mondes extérieur",
+			"english_name": "Overworld glitches",
+			"preset": "owg",
+			"description": "Seed ouverte où la logique oblige l'utilisation de glitchs normalement interdits.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Glitchs du monde extérieur avec clésordre",
+			"english_name": "Overworld glitches with keysanity",
+			"preset": "coxla/owg_keysanity",
+			"description": "Seed ouverte où la logique oblige l'utilisation de glitchs normalement interdits. Clésordre activé.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Tous les donjons avec pseudo bottes, clésordre, ennemiseur avec logique avancée, bossmiseur et épée vanilles",
+			"english_name": "Adkeys logical Enemizer with vanilla swords",
+			"preset": "knucks/eadk",
+			"description": "Clésordre où il faut compléter tous les donjons (incluant Aga 1). Pseudo bottes au départ. Les épées sont vanilles (oncle, piédestal, forgeron et pyramide fairy). Les ennemis sont mélangés et il peut être requis d'avoir une arme spéciale pour les vaincre (l'arc pour les eyegore ou mimic rouge, le marteau pour les tortues, bombos ou fire rod pour les méduses rouges et aussi la poudre ou quake pour les deadrock). Le bossmiseur est activé (au moins 1 de chaque boss avec 3 duplicats).",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Inversé clésordre",
+			"english_name": "Inverted keysanity",
+			"preset": "inverted_keys",
+			"description": "Seed inversée avec clésordre activée. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Inversé clésordre avec flûte activée",
+			"english_name": "Influkeys",
+			"preset": "Tournament_invkeys",
+			"description": "Seed inversée avec clésordre activée. On commence avec la flûte activée. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Inversé tous les donjons avec clésordre",
+			"english_name": "Inverted Adkeys",
+			"preset": "inverted_adkeys",
+			"description": "Seed inversée avec clésordre activée. Tous les donjons 9incluant Aga 1) doivent être accomplies. La version 1.0 inverted est utilisée.",
+			"generator": "VT"
+		},
+		{
+			"french_name": "Tous les donjons clésordre avec bottes, drop de clés mélangés",
+			"english_name": "All dungeons boots with keydrop",
+			"preset": "coxla/adkdb",
+			"description": "Clésordre avec tous les donjons requis (incluant Aga 1). Les ennemis et les pots qui ont normalement une clé sont aussi mélangés avec les items.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Cabooclé avec drop de clés mélangés",
+			"english_name": "Cabookey drop",
+			"preset": "kaesden/cabookeydrop",
+			"description": "Début standard avec bottes et épée. Clésordre avec tous les donjons requis (incluant Aga 1). Les ennemis et les pots qui ont normalement une clé sont aussi mélangés avec les items. Pendant la séquence avec Zelda, il faudra peut-être entrer dans castle tower!",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Tous les donjons ouvertes avec écran du monde mélangés",
+			"english_name": "AD Open tile swap 7/7",
+			"preset": "kaesden/open_ad_tileswap",
+			"description": "Tous les donjons (incluant Aga 1) doivent être complétés. Dans le light world, chaque écran du monde extérieur peut être sa version light ou dark, puis vice-versa lorsqu'on entre dans le dark world. La version 2.0 inverted est utilisée.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Clésordre 7/7 inversé avec départ standard",
+			"english_name": "Stinkeys",
+			"preset": "league/stdinvkeys",
+			"description": "Début standard avec clésordre. Les écrans du monde extérieure du light world deviennent leur version dark, à l'exception de la maison de Link et du château d'Hyrule. Puis, une fois qu'on entre dans le "dark world" les écrans du monde extérieur deviennent la version light. La version 2.0 inverted est utilisée.",
+			"generator": "MR"
+		},
+		{
+			"french_name": "Mystère (preset MMMM)",
+			"english_name": "Mystery (MMMM preset)",
+			"preset": "league/mmmm",
+			"description": "Seed où il faut déterminer les paramètres et l'objectif au courant de la course! Utilise les paramètres du MMMM avec la modification que le door shuffle reste vanille.",
+			"generator": "MY"
+		},
+		{
+			"french_name": "Au choix!",
+			"english_name": "Your choice!",
+			"preset": "",
+			"description": "Vous voulez jouer un autre mode non présent dans le tournoi? Soumettez votre propre choix aux administrateurs! Votre adversaire doit l'approuver aussi.",
+			"generator": ""
+		}
+	]
+}
