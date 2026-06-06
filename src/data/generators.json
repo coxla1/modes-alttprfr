@@ -2,21 +2,26 @@
 	"VT": {
 		"name": "SahasrahBot",
 		"prefix": "/alttpr preset"
+		"raceroom": "!race"
 	},
 	"MY": {
 		"name": "BotOfMudoraMystery",
 		"prefix": "/mudoramystery"
+		"raceroom": "!mudoramystery"
 	},
 	"MR": {
 		"name": "BotOfMudora",
 		"prefix": "/mudoraroll"
+		"raceroom": "!mudoraroll"
 	},
 	"MC": {
 		"name": "BotOfMudoraCrosskeys",
 		"prefix": "/mudorarollcrosskeys"
+		"raceroom": "!mudorarollcrosskeys"
 	},	
 	"MD": {
 		"name": "BotOfMudoraSpoiler",
 		"prefix": "/mudoraspoiler"
+		"raceroom": "!mudoraspoiler"
 	}
 }
