@@ -19,16 +19,16 @@
 		{
 			"french_name": "Croise-clés avec miroir au départ",
 			"english_name": "Crosskeys with mirror",
-			"preset": "reynox/crosskeys_mirror",
+			"preset": "bakuzento/mirrorxkeys",
 			"description": "Croise-clé avec miroir au départ.",
-			"generator": "VT"
+			"generator": "MR"
 		},
 		{
 			"french_name": "Croise-clés ténébreuse (perle et lampe au départ)",
 			"english_name": "Dark Crosskeys (starting lamp and moon pearl)",
-			"preset": "reynox/dark_crosskeys",
+			"preset": "bakuzento/darkcrosskeys",
 			"description": "Croise-clé avec perle et lampe au départ.",
-			"generator": "VT"
+			"generator": "MR"
 		},
 		{
 			"french_name": "Croise Ganon (10/12 morceaux de triforce)",
