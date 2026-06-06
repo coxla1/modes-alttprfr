@@ -15,7 +15,7 @@
 			"english_name": "Beginner doors",
 			"preset": "alttprleague/beginner_doors",
 			"description": "Départ standard. Les salles des donjons sont séparées en 3 groupes et mélangées au sein de leur groupe. Les trois groupes sont HC, EP, DP, TOH --- POD, SP, SW, TT --- IP, MM, TR, GT. ",
-			"generator": "MR"
+			"generator": "VT"
 		},
 		{
 			"french_name": "Glitchs du mondes extérieur",
