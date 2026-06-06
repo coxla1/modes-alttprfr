@@ -11,9 +11,9 @@
 		{
 			"french_name": "Bossmiseur chaotique avec demi-magie au départ",
 			"english_name": "Chaos Bossmizer Half Magic",
-			"preset": "reynox/chaos_bossmizer_magic",
-			"description": "Les boss sont mélangés entre eux. Le mélange chaotique fait en sorte qu'il n'y a pas de minimum ou maximum au nombre de fois qu'un boss peut apparaître. On commence avec la demi-magie.",
-			"generator": "MR"
+			"preset": "reynox/chaos_boss_magic",
+			"description": "Les boss sont mélangés entre eux. Le mélange chaotique fait en sorte qu'il n'y a pas de minimum ou maximum au nombre de fois qu'un boss peut apparaître. On commence avec la demi-magie. Le enemiseur est désactivé.",
+			"generator": "VT"
 		},
 		{
 			"french_name": "Tous les donjons, ennemiseur avec logique de base et épées vanilles",
