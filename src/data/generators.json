@@ -1,27 +1,37 @@
 {
 	"VT": {
 		"name": "SahasrahBot",
-		"prefix": "/alttpr preset",
-		"raceroom": "!race"
+		"discord_prefix": "/alttpr preset preset:",
+		"discord_suffix": "",
+		"racetime_prefix": "!race ",
+		"racetime_suffix": ""
 	},
 	"MY": {
 		"name": "BotOfMudoraMystery",
-		"prefix": "/mudoramystery",
-		"raceroom": "!mudoramystery"
+		"discord_prefix": "/mudoramystery preset:",
+		"discord_suffix": "",
+		"racetime_prefix": "!mudoramystery ",
+		"racetime_suffix": ""
 	},
 	"MR": {
 		"name": "BotOfMudora",
-		"prefix": "/mudoraroll",
-		"raceroom": "!mudoraroll"
+		"discord_prefix": "/mudoraroll preset:",
+		"discord_suffix": "",
+		"racetime_prefix": "!mudoraroll ",
+		"racetime_suffix": ""
 	},
 	"MC": {
 		"name": "BotOfMudoraCrosskeys",
-		"prefix": "/mudorarollcrosskeys",
-		"raceroom": "!mudorarollcrosskeys"
+		"discord_prefix": "/mudorarollcrosskeys preset:",
+		"discord_suffix": "",
+		"racetime_prefix": "!mudorarollcrosskeys ",
+		"racetime_suffix": ""
 	},
 	"MD": {
 		"name": "BotOfMudoraSpoiler",
-		"prefix": "/mudoraspoiler",
-		"raceroom": "!mudoraspoiler"
+		"discord_prefix": "/mudoraspoiler preset:",
+		"discord_suffix": "",
+		"racetime_prefix": "!mudoraspoiler ",
+		"racetime_suffix": " 900"
 	}
 }
