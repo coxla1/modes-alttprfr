@@ -1,22 +1,27 @@
 {
 	"VT": {
 		"name": "SahasrahBot",
-		"prefix": "/alttpr preset"
+		"prefix": "/alttpr preset",
+		"raceroom": "!race"
 	},
 	"MY": {
 		"name": "BotOfMudoraMystery",
-		"prefix": "/mudoramystery"
+		"prefix": "/mudoramystery",
+		"raceroom": "!mudoramystery"
 	},
 	"MR": {
 		"name": "BotOfMudora",
-		"prefix": "/mudoraroll"
+		"prefix": "/mudoraroll",
+		"raceroom": "!mudoraroll"
 	},
 	"MC": {
 		"name": "BotOfMudoraCrosskeys",
-		"prefix": "/mudorarollcrosskeys"
-	},	
+		"prefix": "/mudorarollcrosskeys",
+		"raceroom": "!mudorarollcrosskeys"
+	},
 	"MD": {
 		"name": "BotOfMudoraSpoiler",
-		"prefix": "/mudoraspoiler"
+		"prefix": "/mudoraspoiler",
+		"raceroom": "!mudoraspoiler"
 	}
 }

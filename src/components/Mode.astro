@@ -23,8 +23,12 @@ const {frenchName, englishName, preset, description, categorySlug, generatorSlug
   >
   <div
     class="accordion-body card-text"
-    set:html={description +  "<br />" + "Commande " + generatorsData[generatorSlug].name + " : " +
-      "<kbd>" + generatorsData[generatorSlug].prefix + " preset:" + preset + "</kbd>"}
+      set:html={description +  "<br />" +
+      "Commande Discord " + generatorsData[generatorSlug].name + " : " +
+      "<kbd>" + generatorsData[generatorSlug].prefix + " preset:" + preset + "</kbd>" + "<br />" +
+      "Commande Racetime.gg : " +
+      "<kbd>" + generatorsData[generatorSlug].raceroom + preset + "</kbd>"
+      }
   >
     </div>
   </div>
