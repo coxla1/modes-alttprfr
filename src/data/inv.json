@@ -12,14 +12,14 @@
 		{
 			"french_name": "Inversé avec flute activées au départ",
 			"english_name": "Influte",
-			"preset": "reynox/influte",
+			"preset": "canardbot/inverted_flute",
 			"description": "Seed inversé (on commence dans le dark world). On commence avec la flute active au départ. À noter que le clésordre reste désactivé. La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		},
 		{
 			"french_name": "Tous les donjons, inversé avec les épées vanilles",
 			"english_name": "AD Inverted Vanilla Sword",
-			"preset": "reynox/AD_inverted_vanilla",
+			"preset": "reynox/ad_inverted_vanilla",
 			"description": "Seed inversé où il faut accomplir tous les donjons (incluant Aga 1). Les épées sont vanilles (oncle, piédestal, forgeron et pyramide fairy). La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		},
