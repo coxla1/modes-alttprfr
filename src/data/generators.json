@@ -7,7 +7,7 @@
 		"racetime_suffix": ""
 	},
 	"MY": {
-		"name": "BotOfMudoraMystery",
+		"name": "BotOfMudora (mystery)",
 		"discord_prefix": "/mudoramystery preset:",
 		"discord_suffix": "",
 		"racetime_prefix": "!mudoramystery ",
@@ -21,14 +21,14 @@
 		"racetime_suffix": ""
 	},
 	"MC": {
-		"name": "BotOfMudoraCrosskeys",
-		"discord_prefix": "/mudorarollcrosskeys preset:",
+		"name": "BotOfMudora (entrance)",
+		"discord_prefix": "/mudorarollcrosskeys ",
 		"discord_suffix": "",
 		"racetime_prefix": "!mudorarollcrosskeys ",
 		"racetime_suffix": ""
 	},
 	"MD": {
-		"name": "BotOfMudoraSpoiler",
+		"name": "BotOfMudora (spoiler)",
 		"discord_prefix": "/mudoraspoiler preset:",
 		"discord_suffix": "",
 		"racetime_prefix": "!mudoraspoiler ",

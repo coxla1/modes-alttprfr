@@ -12,7 +12,7 @@
 		{
 			"french_name": "Croise-clés avec pseudo bottes",
 			"english_name": "Crosskeys with pseudoboots",
-			"preset": "pseudoboots",
+			"preset": "pseudoboots:true",
 			"description": "Croise-clé avec pseudo bottes au départ. Les pseudo bottes permettent de courir, mais ne peuvent pas détruire des rochers ni traverser des gouffres en rebondissant sur un mur.",
 			"generator": "MC"
 		},
