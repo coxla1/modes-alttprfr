@@ -33,8 +33,8 @@
 		{
 			"french_name": "Croise Ganon (10/12 morceaux de triforce)",
 			"english_name": "Crosshunt (10/12 triforce hunt)",
-			"preset": "reynox_crosshunt",
-			"description": "Croise-clé où il faut collecter 10 morceaux de triforce sur les 12 disponibles dans la seed. 10 morceaux remplacent les pendentifs et les cristaux trouvés sur les boss. Puis, il y a un morceau de triforce derrière Ice Armos et un derrière Moldorm 2. Les pendentifs et cristaux sont mélangés avec les items. L'entrée de GT ne demande aucun cristal.",
+			"preset": "reynox/crosshunt_prizeshuffle",
+			"description": "Croise-clé où il faut collecter 10 morceaux de triforce sur les 12 disponibles dans la seed avant d'aller affronter Ganon. 10 morceaux de triforce remplacent les pendentifs et les cristaux trouvés sur les boss de donjon. Puis, 2 morceaux de triforce remplacent le bk chest derrière Ice Armos et le chest derrière Moldorm 2. Les pendentifs et cristaux sont mélangés avec les items. L'entrée de GT demande 0 cristal. On commence avec toutes les maps.",
 			"generator": "MR"
 		},
 		{
