@@ -80,7 +80,7 @@
 		{
 			"french_name": "Standard avec épée assurée et consommables et lampe",
 			"english_name": "Standard assured sword and ressources",
-			"preset": "reynox_consommables",
+			"preset": "bakuzento/standard_lampcons",
 			"description": "Début standard avec épée et lampe. Aussi, on commence avec des bombes, des flèches et des rupee.",
 			"generator": "VT"
 		},
@@ -89,7 +89,7 @@
 			"english_name": "Open bosshunt",
 			"preset": "alttprleague/bosshunt",
 			"description": "Il faut collecter 10 morceaux de triforce sur les 12 disponibles dans la seed. 10 morceaux remplacent les pendentifs et les cristaux trouvés sur les boss. Puis, il y a un morceau de triforce derrière Ice Armos et un derrière Moldorm 2. Les pendentifs et cristaux sont mélangés avec les items. L'entrée de GT ne demande aucun cristal. Le trou de la pyramide est déjà ouvert (pas besoin de vaincre Aga 2).",
-			"generator": "MR"
+			"generator": "VT"
 		}
 	],
 	"1": [],
