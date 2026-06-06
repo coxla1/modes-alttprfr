@@ -11,21 +11,21 @@
 		{
 			"french_name": "Clésordre avec bottes",
 			"english_name": "Keysanity boots",
-			"preset": "reynox/keysboots",
+			"preset": "canardbot/keysboots",
 			"description": "Clésordre avec bottes au départ.",
 			"generator": "VT"
 		},
 		{
 			"french_name": "Clésordre avec rapide Ganon",
 			"english_name": "Keysanity fast Ganon",
-			"preset": "reynox/keysfast",
+			"preset": "canardbot/keysfast",
 			"description": "Clésordre, mais le trou dans la pyramide est déjà ouvert.",
 			"generator": "VT"
 		},
 		{
 			"french_name": "Cartes, boussoles, petites clés mélangées avec flûte.",
 			"english_name": "Map, compass, small keys shuffle with flute",
-			"preset": "reynox/mcsflute",
+			"preset": "canardbot/mcsuflute",
 			"description": "Les maps, boussoles les petites clés sont mélangées avec les items. Les grosses clés restent dans leur donjon respectif. On commence avec une flute activée.",
 			"generator": "VT"
 		},
