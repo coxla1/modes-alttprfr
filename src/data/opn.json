@@ -81,7 +81,7 @@
 			"french_name": "Standard avec épée assurée et consommables et lampe",
 			"english_name": "Standard assured sword and ressources",
 			"preset": "bakuzento/standard_lampcons",
-			"description": "Début standard avec épée et lampe. Aussi, on commence avec des bombes, des flèches et des rupee.",
+			"description": "Début standard avec épée et lampe. Aussi, on commence avec 10 bombes, 30 flèches et 1000 rupee.",
 			"generator": "VT"
 		},
 		{
