@@ -47,9 +47,9 @@
 		{
 			"french_name": "Retrance avec flute activée et indices",
 			"english_name": "Retrance with activated flute",
-			"preset": "reynox/pseudo_flute_retrance",
+			"preset": "reynox/retrance_activatedflute",
 			"description": "On commence avec une épée et la flute activée au départ. En plus du croise-clé, les indices sont activés (les dalles grises présentes dans les donjons ainsi que certains PNJ donnent des informations quant à la seed). Les petites clés sont universelles et il est possible d'en acheter dans des magasins. Il faut acheter un carquois de flèche afin de tirer des flèches. Chaque tir de flèche coûte des rupee. Il y a 4 entrées qui deviennent des cavernes qui offrent soit un réceptacle de coeur, soit une bouteille. Il y a 1 entrée qui mène à une caverne avec une épée.",
-			"generator": "VT"
+			"generator": "MR"
 		}
 	],
 	"3": []
