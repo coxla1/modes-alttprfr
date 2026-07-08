@@ -33,7 +33,7 @@
 		{
 			"french_name": "Invrosie avec bottes au départ",
 			"english_name": "Invrosia Boots",
-			"preset": "Invrosia_boots",
+			"preset": "invrosia_boots",
 			"description": "Seed inversé avec une épée et les bottes au départ. Les grosses clés sont mélangées avec les items excepté celle de GT. Les boss donnent assurément un item. La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		}
