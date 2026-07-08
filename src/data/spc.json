@@ -48,7 +48,7 @@
 		{
 			"french_name": "Inversé clésordre avec flûte activée",
 			"english_name": "Influkeys",
-			"preset": "Tournament_invkeys",
+			"preset": "tournament_invkeys",
 			"description": "Seed inversée avec clésordre activée. On commence avec la flûte activée. La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		},
