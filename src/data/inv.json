@@ -12,7 +12,7 @@
 		{
 			"french_name": "Inversé avec flute activées au départ",
 			"english_name": "Influte",
-			"preset": "canardbot/inverted_flute",
+			"preset": "reynox/inverted_flute",
 			"description": "Seed inversé (on commence dans le dark world). On commence avec la flute active au départ. À noter que le clésordre reste désactivé. La version 1.0 inverted est utilisée.",
 			"generator": "VT"
 		},
