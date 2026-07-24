@@ -31,7 +31,7 @@
 		{
 			"french_name": "Ouverte 4/7",
 			"english_name": "Open 4/7",
-			"preset": "canardbot/open_47",
+			"preset": "reynox/open_47",
 			"description": "La tour de Ganon sera accessible dès que l'on a 4 cristaux. Il faut tout de même les 7 cristaux et monter la tour pour vaincre Ganon.",
 			"generator": "VT"
 		},
