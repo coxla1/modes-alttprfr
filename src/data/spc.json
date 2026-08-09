@@ -91,7 +91,7 @@
 			"french_name": "Mystère (preset MMMM)",
 			"english_name": "Mystery (MMMM preset)",
 			"preset": "league/mmmm",
-			"description": "Seed où il faut déterminer les paramètres et l'objectif au courant de la course! Utilise la base du MMMM. Les paramètres suivant sont toujours exclus: bomb bag, time OHKO, restricted/insanity entrance shuffle, cave/cavekeys pottery shuffle, door shuffle des donjons."
+			"description": "Seed où il faut déterminer les paramètres et l'objectif au courant de la course! Utilise la base du MMMM. Les paramètres suivant sont toujours exclus: bomb bag, time OHKO, restricted/insanity entrance shuffle, cave/cavekeys pottery shuffle, door shuffle des donjons.",
 			"generator": "MY"
 		},
 		{
