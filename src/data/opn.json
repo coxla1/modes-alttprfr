@@ -47,7 +47,7 @@
 			"english_name": "Shopsanity",
 			"preset": "reynox/shopsanity",
 			"description": "Le contenu des magasins sont mélangés avec les items.",
-			"generator": "VT"
+			"generator": "MR"
 		},
 		{
 			"french_name": "Tous les donjons avec bottes au départs",
