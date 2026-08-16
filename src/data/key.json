@@ -41,7 +41,7 @@
 			"english_name": "Shop keysanity",
 			"preset": "reynox/shopsanity_keysanity",
 			"description": "Clésordre et le contenu des magasins sont mélangés avec les items.",
-			"generator": "VT"
+			"generator": "MR"
 		},
 		{
 			"french_name": "Presque tous les donjons avec clésordre",
